@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="papaDB">
+
+<select id="papa_qnaCustomerVO" resultType="QnaCustomerVO">
+    SELECT * FROM ${shdata}
+</select>
+
+<insert id="Qnainsert">
+insert into ${shdata} (category,category_detail,detail,preface,lastupdate)
+values (#{category},#{category_detail},#{detail},#{preface},#{lastupdate})
+</insert>
+
+<update id="Qnaupdate">
+    UPDATE ${shdata}
+    set category = #{category},
+        category_detail = #{category_detail},
+        detail = #{detail},
+        preface = #{preface},
+        lastupdate = #{lastupdate}
+    WHERE qidx = #{qidx}
+</update>
+
+<delete id="Qnadelete">
+    DELETE from ${shdata}
+    WHERE qidx = #{qidx}
+</delete>
+</mapper>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

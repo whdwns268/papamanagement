@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8321f5bb.css",
+    "main.js": "/static/js/main.48105c55.js",
+    "static/js/787.144d9375.chunk.js": "/static/js/787.144d9375.chunk.js",
+    "static/media/papalogo.png": "/static/media/papalogo.a9128e459afd0c55ce97.png",
+    "static/media/Ellipsis-1s-200px.gif": "/static/media/Ellipsis-1s-200px.f14c8f829036f1e64788.gif",
+    "static/media/product.svg": "/static/media/product.2c67bb6057c61d5e99ed2c6309f99839.svg",
+    "static/media/error.svg": "/static/media/error.f454d9f6c64c1cc6bc3a13462620ce08.svg",
+    "static/media/qna.svg": "/static/media/qna.f6a155b29901b29aa56d29118ad26bc9.svg",
+    "static/media/search.svg": "/static/media/search.0d9362f0cbe922b9414eaf4e6c503d71.svg",
+    "static/media/overview.svg": "/static/media/overview.10b55b3224dcfff484d7f9ddd03ba7be.svg",
+    "static/media/crewlist.svg": "/static/media/crewlist.202bfec393a248f562b537fa44107be8.svg",
+    "static/media/reservetime.svg": "/static/media/reservetime.895d34f1912d6df620350694453192b1.svg",
+    "static/media/stopover.svg": "/static/media/stopover.ef678e30081b2dc0d27e64c28fb1ef0c.svg",
+    "static/media/plus.svg": "/static/media/plus.be9b6b68c94cad6816bbd3c65d5b2d19.svg",
+    "static/media/filter.svg": "/static/media/filter.7e5e62b420ecea07c50348e5eafadaa6.svg",
+    "static/media/check.svg": "/static/media/check.6c22f242660fbd2c4bb768bbad43f110.svg",
+    "index.html": "/index.html",
+    "static/media/newwrite.svg": "/static/media/newwrite.0650218dac8103a929c4fe1813cf48e6.svg",
+    "static/media/error_FILL0.svg": "/static/media/error_FILL0.0d19577c951dea91fa69f9dae103db6d.svg",
+    "main.8321f5bb.css.map": "/static/css/main.8321f5bb.css.map",
+    "main.48105c55.js.map": "/static/js/main.48105c55.js.map",
+    "787.144d9375.chunk.js.map": "/static/js/787.144d9375.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8321f5bb.css",
+    "static/js/main.48105c55.js"
+  ]
+}

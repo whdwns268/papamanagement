@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "https://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<configuration>
+  <typeAliases>
+    <!-- 새로운 테이블을 불러올 때 (config부분)-->
+    <typeAlias alias="QnaCustomerVO" type="papa.QnaCustomerVO"></typeAlias>
+  </typeAliases>
+
+</configuration>

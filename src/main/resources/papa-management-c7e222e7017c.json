@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "papa-management",
+  "private_key_id": "c7e222e7017c839ce57cfebab6138f8504aa6396",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDsg7vwL3fTKvja\n5E9FEZ7CKIKSqcOolz3mZKdVKpUgaK0WOTBOsbrAuTGkOtH5D9nFqkNr4aYPq60W\ncyH93js9iXo5LFEeEK1JymK91sLry1q8SPXpEx+0lvIan3/w8nL4RkGJ8eFwjG/1\nBktCZnlbLhkMwxsaOoR2/Fr0eL78tiLnyGZORx587GSvDAp8jrUydXF0EFGmAzwi\nhiCDurywz4Hm0LnqP1eLefZpnW81LmXeeaWcXjHL4rHQO1mRJ4zcE+NKqp43IcFj\nwVmpO6F4O4SzneTu6KMEzgfTFq3olNCdgQvqhp5osxP7/rwj+BU1J1X20h0qblax\nTQTovSjzAgMBAAECggEAG+tfwnZSsR/P0+8YQxwAX1pu3NH4zIGwse4h1ADnLQs4\n8M2mxoizy0+ml4TGB/OiDnO56mtEXMc0SIPQzb9vw3o4w7UCjQevnRgCA0ztzO3q\nyR0ybOVwBwkRN/6qGLmrbrlvFSdI0y4Q1/N6ljJd6Fs5uR2dqRaipR/HEOLhZhf+\npF7XiS8ARUtGK/jcuqjL/0O8CPf1G5WM0sclHE0ry5ZBjDEHrPxvZiAwaZZo596z\nd3jdzxEe7JDaLlGkOCw7Ev+1Uau84I2FOwbwAIP2kW57ThAfASufdJOe8v7hXMvz\n0l9t+UTY8OkjGnhjkOfg82KuCaaSADIRl213lHF2AQKBgQD5wTJ8cT3ip+mkeunU\nOARvCYukg7wvmKXF31aM08j6WgeZX9pjn0Qc6WT3qaTXembe9m+ti0MWtHgHMP1n\njU4ilInD8nVfVvXYXBYuZSH0dqhLN1zuYvWJBcGOSqrIRFxYBym4OHXYRBBT0PkG\nFexTWBaljPIpsbaCKh4AlURF8wKBgQDybcfUC3o+xHKJm2W0ZFKjV0g4Xyvhm1tw\n5BLNg9Bx2TvBC9tqr+0WK7gw9KsRL1k8YW/3j8dxKNRpEFn/2mIEHC/fsuKqmRoP\nPhYKKREA2D5HVRJH8J+jKUq5C+VnqkmuBJGTtry6WUqV9Rn2HpwPJLf1jQ1Ub06Z\nGluUJA1RAQKBgCU0rbOyHvj78KdrFBhkO+zarC3W3hrtD4z5p2gVSLRa4xTrHZqH\nqFryPfNTF1ZuSpLefWaJ/3WLbvILT0S03TXzkM5a+Tc5uigAF+HTeQp0/r8twS9W\nGKPP8rSi1Ow+ms8WShXCe3O7N/90exR4AZus3LrO02h4q+qaIZwOoHwXAoGBALZ/\n3kbKvSQzTuY4jb/XJj7AniWRv77+7T928pC0Al8yYcFZ47vU5G4kS2zPQ1iUhGDo\nGRoMqt+NFRpirN3m0JK3hXKpf+ldiDihTIYplBtGrtuUN0bg5cw2cYIMao43q2/N\nEKpajojaX0O0V+7n7COaSMIZhUdi45BuPzKuUTgBAoGBANjJnIn26WsLcIcP3KQM\nKlMFcL91ANhm9wMD1hYb0JJGuCug1HD1DIiVoYPuCLi1rxuYs9eERiXF+xasZug5\nZJvC28ziS53Az3lN/Xv0lPWPS4pVakGpuD5v3Ru+7MixIEmV2OzbI3v+ZW9HpmTb\nKg1jlV5RwA1IetQ3pyyy95Bb\n-----END PRIVATE KEY-----\n",
+  "client_email": "papamanagement@papa-management.iam.gserviceaccount.com",
+  "client_id": "110799839412604584342",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/papamanagement%40papa-management.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
