@@ -16,7 +16,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>papa.Main</mainClass>
+                            <mainClass>papa.webpage</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
