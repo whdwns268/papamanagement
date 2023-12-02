@@ -16,7 +16,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>webpage</mainClass>
+                            <mainClass>classes.papa.webpage</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
