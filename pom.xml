@@ -8,6 +8,7 @@
     <artifactId>papa</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
@@ -15,6 +16,23 @@
         <java.version>11</java.version>
         <spring-boot.version>2.5.5</spring-boot.version>
     </properties>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>3.2.2</version> <!-- 버전은 변경 가능 -->
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <mainClass>papa.Main</mainClass>
+                        </manifest>
+                    </archive>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 
     <dependencies>
 
