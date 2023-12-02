@@ -23,6 +23,10 @@ import java.util.Map;
 @Controller
 public class webpage {
 
+    public static void main(String[] args) {
+
+    }
+
     PrintWriter pw = null;
 
     @Inject
